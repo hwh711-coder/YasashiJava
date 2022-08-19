@@ -1,2 +1,2 @@
-# -Java
+# YasashiJava
 A note for java Learning
