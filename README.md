@@ -20,11 +20,11 @@ A note for java Learning
 
 * 対象リポジトリをローカルのリモートリポジトリに追加する: 
 
- * `$ git remote add リモート名 リモート URL`
+  * `$ git remote add リモート名 リモート URL`
 
- * 例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
+  * 例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
 
- * 例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
+  * 例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
 
 * リモート已存在：
 
