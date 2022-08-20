@@ -16,10 +16,15 @@ A note for java Learning
 9. 再次查看本地库里的内容
 `$ git status`
 10. 复制repository连接
-11. 远程遥控 —> 対象リポジトリをローカルのリモートリポジトリに追加する
-`$ git remote add リモート名 リモート URL`
-例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
-例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
+11. 远程遥控 
+
+* 対象リポジトリをローカルのリモートリポジトリに追加する: 
+
+ * `$ git remote add リモート名 リモート URL`
+
+ * 例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
+
+ * 例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
 
 * リモート已存在：
 
