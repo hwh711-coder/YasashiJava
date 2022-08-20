@@ -51,7 +51,7 @@ A note for java Learning
 `$ git commit -m "first commit”`
 
 14. push到github
- 1. 列出所有分支 `$ git branch -a`
+ 1.1 列出所有分支 `$ git branch -a`
  2. 创建test分支 `$ git branch test`
  3. 切换到test分支: `$ git checkout test`
  4. 添加add修改: `$ git add .`
