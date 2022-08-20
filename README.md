@@ -21,15 +21,15 @@ A note for java Learning
 例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
 例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
 
-11.1 リモート已存在：
-确认remote:
- `$ git remote -v`
+ 11.1 リモート已存在：
+      确认remote:
+       `$ git remote -v`
 
-删除remote：
-`$ git remote rm origin`
+      删除remote：
+      `$ git remote rm origin`
 
-重命名remote(リモート名を「origin」から「destination」に変更)
-`$ git remote rename origin destination`
+      重命名remote(リモート名を「origin」から「destination」に変更)
+      `$ git remote rename origin destination`
 
 
 12. 查看设定的用户名和邮箱
