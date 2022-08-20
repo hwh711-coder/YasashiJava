@@ -21,7 +21,7 @@ A note for java Learning
 例如: `$ git remote add origin https://github.com/hwh711-coder/github-.git`
 例如: `$ git remote add origin https://github.com/hwh711-coder/YasashiJava.git `
 
- 11.1 リモート已存在：
+* リモート已存在：
       确认remote:
        `$ git remote -v`
 
