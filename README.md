@@ -51,15 +51,12 @@ A note for java Learning
 `$ git commit -m "first commit”`
 
 14. push到github
- 1.1 列出所有分支 `$ git branch -a`
- 2. 创建test分支 `$ git branch test`
- 3. 切换到test分支: `$ git checkout test`
- 4. 添加add修改: `$ git add .`
- 5. 添加commit注释 `$ git commit -m "第一次提交代码"`
- 6. 提交到服务器 `$ git push origin test`
-
-`$ git push -u origin(リモート名) master(branch名)`
-`$ git push -u origin(リモート名) weihan(branch名)`
+* 列出所有分支 `$ git branch -a`
+* 创建test分支 `$ git branch test`
+* 切换到test分支: `$ git checkout test`
+* 添加add修改: `$ git add .`
+* 添加commit注释 `$ git commit -m "第一次提交代码"`
+* 提交到服务器 `$ git push origin test`, `$ git push -u origin(リモート名) master(branch名)`, `$ git push -u origin(リモート名) weihan(branch名)`
 
 15. 输入用户名和token
 Username for 'https://github.com': 输入用户名
