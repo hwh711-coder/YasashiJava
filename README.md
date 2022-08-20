@@ -23,11 +23,11 @@ A note for java Learning
 
 * リモート已存在：
 
-* 确认remote: `$ git remote -v`
+  * 确认remote: `$ git remote -v`
 
-* 删除remote： `$ git remote rm origin`
+  * 删除remote： `$ git remote rm origin`
 
-* 重命名remote(リモート名を「origin」から「destination」に変更) `$ git remote rename origin destination`
+  * 重命名remote(リモート名を「origin」から「destination」に変更) `$ git remote rename origin destination`
 
 
 12. 查看设定的用户名和邮箱
