@@ -65,21 +65,27 @@ Password for 'https://hwh@github.com': 输入token
 
 更新代码
 
-1.输入下载指令下载自己在GitHub上的profile
+1. 输入下载指令下载自己在GitHub上的profile
 `$ git clone https://github.com/CSwuyp/socket.git//后面这个是你的GitHub上profile的地址`
-2.git status查看状态
+
+2. git status查看状态
 `$ git status`
-3.更新后使用git add * --代表更新全部
+
+3. 新后使用git add * --代表更新全部
 `$ git add *`
+
 4. 接着输入git commit -m "更新说明"，commit只是提交到缓存区域
 `$ git commit -m "update”`
+
 5. 如果多人同时开发维护代码，得先git pull,拉取当前分支最新代码
 `$ git pull`
+
 6. 最后git push origin master,最后一步才是push到远程master分支上
 `$ git push -u origin master`
 
 
 初始化一个空的git本地仓库
 `$ git init`
+
 删除本地仓库.git
 `$ rm -rf .git`
